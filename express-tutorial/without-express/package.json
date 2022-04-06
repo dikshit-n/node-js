@@ -1,0 +1,6 @@
+{
+    "name": "express-tutorial--without-express",
+    "scripts": {
+        "start": "nodemon app.js"
+    }
+}
